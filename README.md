@@ -10,7 +10,7 @@ Heute gab es folgende Speisen:
 ein einfaches C-Programm:
 
 ...C
-#inclue <stdio.h>
+#include <stdio.h>
 int main()
 {
 printf("Hello");
