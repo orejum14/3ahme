@@ -9,7 +9,9 @@ Heute gab es folgende Speisen:
 
 ein einfaches C-Programm:
 
-...C
+C
+
+...
 #include <stdio.h>
 
 int main()
