@@ -9,8 +9,6 @@ Heute gab es folgende Speisen:
 
 ein einfaches C-Programm:
 
-C
-
 ...
 #include <stdio.h>
 
